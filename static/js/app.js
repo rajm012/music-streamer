@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Get DOM elements with kebab-case IDs to match HTML
+    
     const elements = {
         audioPlayer: document.getElementById('audio-player'),
         songList: document.getElementById('song-list'),
